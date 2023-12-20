@@ -92,13 +92,13 @@ AddEventHandler('rsg-butcher:client:sellanimal', function()
                             TriggerServerEvent('rsg-butcher:server:reward', rewardmoney, rewarditem, 'perfect') -- perfect quality reward
                         end
                     else
-                        RSGCore.Functions.Notify(Lang:t('error.something_went_wrong'), 'error')
+                        lib.notify({ title = 'Error', description = Lang:t('error.something_went_wrong'), type = 'error', duration = 5000 })
                     end
                 end)
             end
         end
     else
-        RSGCore.Functions.Notify(Lang:t('error.dont_have_animal'), 'error')
+        lib.notify({ title = 'Error', description = Lang:t('error.dont_have_animal'), type = 'error', duration = 5000 })
     end
 end)
 
