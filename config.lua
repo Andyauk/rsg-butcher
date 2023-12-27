@@ -16,16 +16,16 @@ Config.Blip = {
 -- prompt locations
 Config.ButcherLocations = {
 
-    {name = Lang:t('menu.st_butcher_shop'),	location = 'stdenis-butcher',		coords = vector3(2816.37, -1322.24, 46.61 -0.8),		showblip = true}, --st denis
-    {name = Lang:t('menu.vl_butcher_shop'),		location = 'valentine-butcher',		coords = vector3(-341.07, 767.35, 116.71 -0.8),			showblip = true}, --valentine
-    {name = Lang:t('menu.rh_butcher_shop'),		location = 'rhodes-butcher',		coords = vector3(1296.36, -1279.26, 75.84 -0.8),		showblip = true}, -- rhodes
-    {name = Lang:t('menu.an_butcher_shop'),		location = 'annesburg-butcher',		coords = vector3(2932.54, 1302.00, 44.48 -0.8),			showblip = true}, -- annesburg
-    {name = Lang:t('menu.tb_butcher_shop'),		location = 'tumbleweed-butcher',	coords = vector3(-5508.10, -2947.73, -1.87 -0.8),		showblip = true}, -- tumbleweed
-    {name = Lang:t('menu.bl_butcher_shop'),		location = 'blackwater-butcher',	coords = vector3(-751.102, -1284.896, 43.276576 -0.8),	showblip = true}, -- blackwater
-    {name = Lang:t('menu.stw_butcher_shop'),	location = 'strawberry-butcher',	coords = vector3(-1752.91, -394.74, 156.19 -0.8),		showblip = true}, -- strawberry
-    {name = Lang:t('menu.va_butcher_shop'),		location = 'vanhorn-butcher',		coords = vector3(2994.23, 571.79, 44.35 -0.8),			showblip = true}, -- vanhorn
-    {name = Lang:t('menu.sp_butcher_shop'),		location = 'spidergorge-butcher',	coords = vector3(-1355.103, 2420.8293, 307.48272 -0.8),	showblip = true}, -- spidergorge
-    {name = Lang:t('menu.ri_butcher_shop'),		location = 'riggsstation-butcher',	coords = vector3(-1005.966, -540.9986, 98.964859 -0.8),	showblip = true}, -- riggsstation
+    {name = Lang:t('menu.st_butcher_shop'),  location = 'stdenis-butcher',      coords = vector3(2816.37, -1322.24, 46.61 -0.8),        showblip = true}, --st denis
+    {name = Lang:t('menu.vl_butcher_shop'),  location = 'valentine-butcher',    coords = vector3(-341.07, 767.35, 116.71 -0.8),         showblip = true}, --valentine
+    {name = Lang:t('menu.rh_butcher_shop'),  location = 'rhodes-butcher',       coords = vector3(1296.36, -1279.26, 75.84 -0.8),        showblip = true}, -- rhodes
+    {name = Lang:t('menu.an_butcher_shop'),  location = 'annesburg-butcher',    coords = vector3(2932.54, 1302.00, 44.48 -0.8),         showblip = true}, -- annesburg
+    {name = Lang:t('menu.tb_butcher_shop'),  location = 'tumbleweed-butcher',   coords = vector3(-5508.10, -2947.73, -1.87 -0.8),       showblip = true}, -- tumbleweed
+    {name = Lang:t('menu.bl_butcher_shop'),  location = 'blackwater-butcher',   coords = vector3(-751.102, -1284.896, 43.276576 -0.8),  showblip = true}, -- blackwater
+    {name = Lang:t('menu.stw_butcher_shop'), location = 'strawberry-butcher',   coords = vector3(-1752.91, -394.74, 156.19 -0.8),       showblip = true}, -- strawberry
+    {name = Lang:t('menu.va_butcher_shop'),  location = 'vanhorn-butcher',      coords = vector3(2994.23, 571.79, 44.35 -0.8),          showblip = true}, -- vanhorn
+    {name = Lang:t('menu.sp_butcher_shop'),  location = 'spidergorge-butcher',  coords = vector3(-1355.103, 2420.8293, 307.48272 -0.8), showblip = true}, -- spidergorge
+    {name = Lang:t('menu.ri_butcher_shop'),  location = 'riggsstation-butcher', coords = vector3(-1005.966, -540.9986, 98.964859 -0.8), showblip = true}, -- riggsstation
     
 }
 
